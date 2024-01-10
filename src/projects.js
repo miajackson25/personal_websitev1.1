@@ -18,14 +18,16 @@ function Projects() {
         <div className="projects-main">
           <p className="sub-title">currently</p>
           <div className='grid'>
-            <div className="item current">Bartlett School of Architecture <br/> University College London<hr/>
-            <p style={{"font-size": ".8em"}}>MSc Space Syntax: Architecture and Cities <br/><br/> I will be spending the next school year (2021-2022) studying how spaces can be planned, designed and manufactured to create more vibrant communities.</p>    
+            <div className="item current">Merit America<p style={{"font-size": ".8em"}}> Product Manager, Schmidt Futures Contract </p> <hr/> 
+            <p style={{"font-size": ".8em"}}>Merit America is a workforce dev provider the upskills and reskills low wage workers and places them in higher paying, family-sustaining jobs. <br></br><br></br>At Merit, I'm creating a long-term product strategy aimed at increasing wage gains for learners across program tracks by reimagining our learner engagement platform.</p>  
             </div>
           </div>
           
-          <p className="sub-title">skills (fluent)</p>
+          <p className="sub-title">skills</p>
           <div className='grid-skills'>
             <div className="item skills">Python</div>
+            <div className="item skills">QGIS</div>
+            <div className="item skills">Figma</div>
             <div className="item skills">React</div>
             <div className="item skills">React Native</div>
             <div className="item skills">R</div>
@@ -52,6 +54,7 @@ function Projects() {
               <p className="description-text">At the Yale Investments Office, I designed and launched a web app to automate the investment manager portfolio upload process to the Bloomberg terminal, reducing the upload duration time.
               </p>
             </div>
+            
           </div>
 
           <p className="sub-title">teaching</p>
