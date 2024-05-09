@@ -143,6 +143,8 @@ function Writing() {
         <ul>
           <li><a className="links-to-articles" href="https://www.nytimes.com/2024/05/06/realestate/national-urban-league-harlem.html" target="_blank" rel="noopener noreferrer">The National Urban League Comes Home</a>, Published in <b style={{"color":"#5e86e6"}}>The New York Times</b>, 5/24</li>
           <p></p>
+          <li><a className="links-to-articles" href="https://nextcity.org/urbanist-news/nycs-big-bet-to-train-the-black-and-brown-climate-professionals-of-the-futu" target="_blank" rel="noopener noreferrer">NYC’s Big Bet to Train the Black and Brown Climate Professionals of the Future</a>, Published in <b style={{"color":"#5e86e6"}}>Next City</b>, 4/24</li>
+          <p></p>
           <li><a className="links-to-articles" href="https://www.nytimes.com/2024/03/05/realestate/john-coltrane-house-philadelphia-black-history.html" target="_blank" rel="noopener noreferrer">A New Initiative to Protect Black History Starts With Coltrane</a>, Published in <b style={{"color":"#5e86e6"}}>The New York Times</b>, 3/24</li>
           <p></p>
           <li><a className="links-to-articles" href="https://www.nytimes.com/2024/01/05/realestate/dizzy-gillespie-queens-jazz.html" target="_blank" rel="noopener noreferrer">For Dizzy Gillespie, Queens Was the Place to Be and to Bop</a>, Published in <b style={{"color":"#5e86e6"}}>The New York Times</b>, 1/24</li>
